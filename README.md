@@ -3,6 +3,8 @@ CCS6344 Database and Cloud Security Assignment 2
 
 ## __Compile and Run Instructions__
 
+~the app.py is inside the bookstore folder
+
 1. After that, type in ```sudo yum update``` and ```sudo dnf upgrade``` to update the version
 2. Type in ```pip install --upgrade pip``` to install the python
 3. In your terminal, clone the repository by typing ```git clone https://github.com/1211307724/CCS6344_Group19_OnlineBookStore.git```
@@ -23,3 +25,4 @@ CCS6344 Database and Cloud Security Assignment 2
 1. 1211307724 - Goh Shi Yi
 2. 1181203211 - Sim Cheng Seng
 3. 1201102941 - Lau Jun Xing
+
