@@ -7,7 +7,7 @@ CCS6344 Database and Cloud Security Assignment 2
 
 1. After that, type in ```sudo yum update``` and ```sudo dnf upgrade``` to update the version
 2. Type in ```pip install --upgrade pip``` to install the python
-3. In your terminal, clone the repository by typing ```git clone https://github.com/1211307724/CCS6344_Group19_OnlineBookStore.git```
+3. In your terminal, clone the repository by typing ```git clone https://github.com/SimChengSeng/CCS6344_Group19_OnlineBookStoreAWS-main.git```
 4. Type in ```pip install -r requirements.txt``` to install all the required packages
 5. Move the directories to bookstore folder by typing ```CCS6344_Group19_OnlineBookStoreAWS-main``` and```cd bookstore```
 6. Type in ```python3 app.py``` to run the application
